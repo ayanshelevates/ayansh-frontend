@@ -19,7 +19,7 @@ export default function Navbar({ logo }) {
 
   return (
     <>
-      {/* ══ NAVBAR ══ */}
+      {/* ══ NAVBAR ══==== */}
       <header className="fixed top-4 md:top-5 left-0 w-full z-[100]">
         <div className="mx-auto max-w-8xl px-s16 xl:px-s40 ">
           <div className="flex items-center justify-between bg-secondary-light/90 backdrop-blur-lg rounded-r40 px-s16 py-s8">
