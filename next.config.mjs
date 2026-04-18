@@ -8,7 +8,7 @@ const nextConfig = {
     return [
       {
         source: "/api/:path*",
-        destination: "https://ayansh-cms-uhkm.vercel.app/api/:path*",
+        destination: "https://ayanshcms.vercel.app//api/:path*",
       },
     ];
   },
