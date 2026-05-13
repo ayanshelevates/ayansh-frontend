@@ -2,7 +2,7 @@
 
 export const navItems =[
   {
-    name: "Ayansh Elevating Lives",
+    name: "Ayansh Elevates",
     href: "/",
     theme: "theme-elevating",
   },

@@ -27,7 +27,7 @@ export default function Page() {
         <CustomerFeedbackSection font="infra-h2" />
         <FAQSection faqs={faqs} font="infra-h2" />
         <CTASection />
-        <Footer image={"/Builder/footer.png"} />
+        <Footer image={"/Infra/footer.png"} image2={"/Infra/footer2.png"} />
         </div>
       </section>
     </>

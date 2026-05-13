@@ -3,7 +3,7 @@ import { Castoro_Titling, Geist, Antonio,Cinzel_Decorative,Geo } from "next/font
 import ClientLayout from "./ClientLayout";
 
 export const metadata = {
-  title: "Ayansh Elevating Lives",
+  title: "Ayansh Elevates",
   description:
     "From Land Purchase to Final Home. Seamlessly Delivered by One Group",
 };

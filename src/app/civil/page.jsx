@@ -26,7 +26,7 @@ function page() {
       <CustomerFeedbackSection font={"civil-h2"}/>
     <FaqSection  font={"civil-h2"} faqs={faqs}/>
 <CTASection/>
-      <Footer image={"/Civil/footer.png"} hover={"white"}/>
+      <Footer image={"/Civil/footer.png"} image2={"/Civil/footer2.png"} hover={"white"}/>
     </div>
   )
 }

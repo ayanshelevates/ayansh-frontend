@@ -1,8 +1,8 @@
 export const footerData = {
   services: [
-    { name: "Ayansh Elevating Lives", href: "/" },
+    { name: "Ayansh Elevates", href: "/" },
     { name: "Ayansh Civil Solutions", href: "/civil" },
-    { name: "Ayansh Builders & Developer", href: "/builder" },
+    { name: "Ayansh Builders & Developer", href: "/builders" },
     { name: "Ayansh Infra Build", href: "/infra" },
   ],
 

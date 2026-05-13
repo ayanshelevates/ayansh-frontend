@@ -10,7 +10,7 @@ export default function CTASection() {
    const [show, setShow] = useState(false);
 
   return (
-    <section className="w-full px-s16 sm:px-s24 lg:px-s32 py-s80">
+    <section className="w-full px-s16 sm:px-s24 lg:px-s32 pt-s80">
       
       <div className="relative  mx-auto rounded-r32 overflow-hidden">
 

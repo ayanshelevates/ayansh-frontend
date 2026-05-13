@@ -25,7 +25,7 @@ export default function Page() {
       <CustomerFeedbackSection font="builder-h2" />
       <FAQSection  font="builder-h2"faqs={faqs} />
       <CTASection />
-      <Footer   image={"/Builder/footer.png"} />
+      <Footer   image={"/Builder/footer.png"} image2={"/Builder/footer2.png"}/>
     </div>
     </section>
   );

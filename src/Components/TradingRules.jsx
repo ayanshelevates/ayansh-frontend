@@ -120,7 +120,7 @@ useEffect(() => {
                 </span>
 
                 <p className="text-main font-medium text-lg">
-                  Ayansh Elevating Lives
+                  Ayansh Elevates
                 </p>
 
               </div>

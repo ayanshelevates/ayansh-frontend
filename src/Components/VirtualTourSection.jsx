@@ -43,7 +43,7 @@ export default function VirtualTourSection() {
   }, []);
 
   return (
-    <section className=" xl:px-0 pb-s160">
+    <section className=" xl:px-0 py-s80 md:py-s160">
 
       {/* Heading */}
       <div className="max-w-7xl mx-auto text-center sm:text-left px-s32 sm:px-s40">

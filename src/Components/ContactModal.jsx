@@ -16,7 +16,7 @@ const CMS_API = process.env.NEXT_PUBLIC_BASE_URL || "";
 const COMPANIES = [
   {
     value: "elevating",
-    label: "Elevating Lives",
+    label: "Elevates",
     desc: "Premium Real Estate",
     color: "border-blue-500 bg-blue-50 text-blue-700",
     active: "ring-blue-500/30 border-blue-500",

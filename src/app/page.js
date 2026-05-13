@@ -20,7 +20,7 @@ export default function Home() {
     <p className="theme-default heading-h1">
     </p>
     <Hero/>
-    <PropertiesSection/>
+    {/* <PropertiesSection/> */}
     <VirtualTourSection/>
     <VisionSection/>
     {/* <TradingRules/> */}
@@ -31,7 +31,7 @@ export default function Home() {
     <CustomerFeedbackSection/>
     <FaqSection faqs={faqs}/>
     <CtaBannerSection/>
-    <Footer image={"/Images/footer.svg"}/>
+    <Footer  />
    </div>
   );
 }
