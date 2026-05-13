@@ -6,7 +6,7 @@ import { footerData } from "@/Data/footerLinks"
 
 export default function Footer({
   image="/Images/footer.png",
-  image2="/Images/acc.png",
+  image2="/Images/foo.png",
   color = "bg-primary-main",
   text = "text-on-primary",
   hover = "hover:text-white/70"

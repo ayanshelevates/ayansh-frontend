@@ -121,7 +121,7 @@ export default function FeaturedProjectSection() {
 */}
 
         {/* VIDEO */}
-        <div className="mt-s6 md:mt-s104 rounded-r32 overflow-hidden border-8 border-secondary-light">
+        <div className="mt-s6 md:mt-s80 rounded-r32 overflow-hidden border-8 border-secondary-light">
 
           {loading ? (
             <div className="w-full h-[500px] bg-gray-200 animate-pulse" />
