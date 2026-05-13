@@ -13,12 +13,12 @@ export default function Footer({
 }) {
 
   return (
-    <footer className={`${color} ${text} rounded-r40 m-s32 md:mx-s40 md:mt-s80  xl:mx-s40 xl:mt-s160  md:mb-s24 overflow-hidden`}>
+    <footer className={`${color} ${text} rounded-t-r32 md:rounded-r40  mt-s80  md:mx-s40  xl:mx-s40 xl:mt-s160  md:mb-s24 overflow-hidden`}>
 
       {/* ================= TOP SECTION ================= */}
       <div className="px-s24 md:px-s40 lg:px-s40 py-s64">
 
-        <div className="max-w-7xl mx-auto flex flex-col gap-s64 md:gap-s80 lg:flex-row gap-x-s104">
+        <div className="max-w-7xl mx-auto flex flex-col gap-s48 md:gap-s80 lg:flex-row gap-x-s104">
 
           {/* 🔥 LOGO */}
           <div className="flex justify-center lg:justify-start">
@@ -50,7 +50,7 @@ export default function Footer({
           <div className="flex-1 backdrop-blur-xl bg-white/5 border border-white/10 rounded-[28px] p-6 md:p-8 shadow-[0_8px_32px_0_rgba(255, 255, 255, 0.1);
 ]">
 
-            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-s24">
 
               {/* Services */}
               <div>
@@ -112,7 +112,7 @@ export default function Footer({
   size={16}
   className="text-primary-main"
 />
-                {footerData.contact.phone || "6345373457345"}
+                {footerData.contact.phone || "6345373457"}
               </div>
 
             </div>
